@@ -1,0 +1,23 @@
+.departure {
+  margin-top: 0.5rem;
+}
+
+.badge-success {
+  color: #fff;
+  background-color: #2786c5;
+}
+
+.badge {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0.25em 0.8em;
+  font-size: 90%;
+  font-weight: 700;
+  line-height: 1;
+  text-align: center;
+  vertical-align: baseline;
+  border-radius: 0.25rem;
+  margin-right: 7px;
+  text-transform: capitalize;
+}
